@@ -37,41 +37,45 @@
             <li class="nav-item">
               <a class="nav-link" href="#">Más recientes</a>
             </li>
-            <li class="form-inline my-2 my-lg-0">
-                <button type="button" class="btn btn-secondary">Registrarse</button>
-            </li>
-            <li class="form-inline my-2 my-lg-0">
-                <button type="button" class="btn btn-danger">Suscribir</button>
-            </li>
+            <form class="form-inline d-flex justify-content-end">
+              <li>
+                  <button type="button" class="btn btn-secondary">Registrarse</button>
+              </li>
+              <li>
+                  <button type="button" class="btn btn-danger">Suscribir</button>
+              </li>
+            </form>
           </ul>
         </div>
       </nav>
 
     <!-- Jumbotron -->
-    <div class="jumbotron">
-        <h6 class="display-5">Libros</h6>
-        <h4 class="display-5">This is a Noddus Demo</h4>
-        <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. </p>
-        <hr class="my-4">
-        <div>
-            <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-            <div class="btn-group">
-                <button class="btn btn-secondary btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false">
-                Cuota
-                </button>
-                <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#"><i class="bi bi-facebook"></i></a>
-                    <a class="dropdown-item" href="#"><i class="bi bi-twitter"></i></a>
-                    <a class="dropdown-item" href="#"><i class="bi bi-link-45deg"></i></a>
-                    <a class="dropdown-item" href="#"><i class="bi bi-envelope-fill"></i></a>
-                </div>
-            </div>
-        </div>
+    <main role="main" class="container">
+      <div class="jumbotron">
+          <h6 class="display-5">Libros</h6>
+          <h4 class="display-5">This is a Noddus Demo</h4>
+          <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. </p>
+          <hr class="my-4">
+          <div>
+              <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+              <div class="btn-group">
+                  <button class="btn btn-secondary btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false">
+                  Cuota
+                  </button>
+                  <div class="dropdown-menu">
+                      <a class="dropdown-item" href="#"><i class="bi bi-facebook"></i></a>
+                      <a class="dropdown-item" href="#"><i class="bi bi-twitter"></i></a>
+                      <a class="dropdown-item" href="#"><i class="bi bi-link-45deg"></i></a>
+                      <a class="dropdown-item" href="#"><i class="bi bi-envelope-fill"></i></a>
+                  </div>
+              </div>
+          </div>
 
-        <div>
-            <img src="img/Image.jpg" class="img-thumbnail" alt="Image">
-        </div>
-    </div>
+          <div>
+              <img src="img/Image.jpg" class="img-thumbnail" alt="Image">
+          </div>
+      </div>
+    </main>
 
     <!-- Footer -->
       <footer class="pt-4 my-md-5 pt-md-5 border-top">
@@ -117,11 +121,13 @@
           </div>
         </div>
           <hr class="my-4">
-          <a class="text-muted" href="#">Política de Privacidad</a> | 
-          <a class="text-muted" href="#">No venda mi información personal</a> | 
-          <a class="text-muted" href="#">Pautas publicitarias</a> | 
-          <a class="text-muted" href="#">Divulgación responsable</a> | 
-          <a class="text-muted" href="#">Mapa del sitio</a>
+          <div class="text-center">
+            <a class="text-muted" href="#">Política de Privacidad</a> | 
+            <a class="text-muted" href="#">No venda mi información personal</a> | 
+            <a class="text-muted" href="#">Pautas publicitarias</a> | 
+            <a class="text-muted" href="#">Divulgación responsable</a> | 
+            <a class="text-muted" href="#">Mapa del sitio</a>
+          </div>
       </footer>
 
     <!-- JQuery Scripts -->
