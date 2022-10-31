@@ -25,7 +25,7 @@ footer hr{
 
 footer h6 {
     color: white;
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-size: small;
 }
 
