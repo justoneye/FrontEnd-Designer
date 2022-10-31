@@ -6,6 +6,11 @@ main{
     margin: 36px 0px;
 }
 
+figure img{
+    align-content: center;
+    size: 80%;
+}
+
 .smDropdown .dropdown-item {
     display: inline;
 }
@@ -14,21 +19,25 @@ footer{
     background-color: black;
 }
 
-h6 {
+footer hr{
+    color: white;
+}
+
+footer h6 {
     color: white;
     text-transform: capitalize;
-    font-size: x-small;
+    font-size: small;
 }
 
 .smIcon{
     color: white;
-    padding-right: 16px;
+    padding: 8px;
 }
 
-.smIcon:hover{
+.smIcon:hover {
     color: red;
 }
 
-.TyC{
+.TyC {
     color:white;
 }
