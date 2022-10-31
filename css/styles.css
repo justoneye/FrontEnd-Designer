@@ -2,6 +2,10 @@ main{
     padding: 24px;
 }
 
+.article-hr{
+    margin: 36px 0px;
+}
+
 .smDropdown .dropdown-item {
     display: inline;
 }
