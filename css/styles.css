@@ -1,63 +1,85 @@
-main{
+/* Main */
+main
+{
     padding: 24px;
 }
 
-.brand-name{
+
+/* NavBar */
+.brand-name
+{
     font-size: x-large;
     font-weight: 500;
     font-style: italic;
 }
 
-.article-hr{
+
+/* article */
+.article-hr
+{
     margin: 36px 0px;
 }
 
-figure img{
+figure img
+{
     align-content: center;
     size: 60%;
 }
 
-.smDropdown .dropdown-item {
+.smDropdown .dropdown-item 
+{
     display: inline;
 }
 
-footer{
+
+/* Footer */
+footer
+{
     background-color: black;
 }
 
-footer hr{
+footer hr
+{
     color: white;
+    size: 1em;
 }
 
-footer h6 {
+footer h6 
+{
     color: white;
     text-transform: uppercase;
     font-size: small;
 }
 
-footer ul li{
+footer ul li
+{
     font-size: small;
     padding-bottom: 5%;
 }
 
-footer a {
+footer a 
+{
     color: white;
 }
 
-.smIcon{
+.smIcon
+{
     color: white;
     padding: 8px;
 }
 
-.smIcon:hover {
+.smIcon:hover 
+{
     color: red;
 }
 
-.TyC {
+.TyC 
+{
     color:white;
     font-size: x-small;
 }
 
-.TyC:hover {
+.TyC:hover 
+{
     color: red;
 }
