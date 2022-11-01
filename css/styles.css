@@ -8,7 +8,7 @@ main{
 
 figure img{
     align-content: center;
-    size: 80%;
+    size: 60%;
 }
 
 .smDropdown .dropdown-item {
@@ -29,6 +29,11 @@ footer h6 {
     font-size: small;
 }
 
+footer ul li{
+    font-size: small;
+    padding-bottom: 5%;
+}
+
 .smIcon{
     color: white;
     padding: 8px;
@@ -40,4 +45,9 @@ footer h6 {
 
 .TyC {
     color:white;
+    font-size: x-small;
+}
+
+.TyC:hover {
+    color: red;
 }
