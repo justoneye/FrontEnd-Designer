@@ -1,4 +1,4 @@
-/* MEdia Queries */
+/* Media Queries */
 @media (min-width: 576px) 
 {
     
@@ -32,12 +32,12 @@ main
 .brand-name
 {
     font-size: x-large;
-    font-weight: 500;
+    font-weight: 500; 
     font-style: italic;
 }
 
 
-/* article */
+/*  Article/Jumbotron */
 .article-hr
 {
     margin: 36px 0px;
