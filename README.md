@@ -3,9 +3,7 @@
 _Goal: Replicate everything in the screenshots for article style._
 
 _Completed by por: Pilar Camargo Márquez_
-- [Website](https://about.me/justoneye)
-- [GitHub](https://github.com/justoneye)
-- [LinkedIn](https://www.linkedin.com/in/pilarcamargo)
+[Website](https://about.me/justoneye) || [GitHub](https://github.com/justoneye) || [LinkedIn](https://www.linkedin.com/in/pilarcamargo)
 
 
 ## Tech Stack
@@ -17,8 +15,6 @@ _Completed by por: Pilar Camargo Márquez_
 
 
 ## File Structure
-
-La carpeta contiene los siguientes archivos:
 
 ```
 FrontEnd-Designer/
