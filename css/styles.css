@@ -127,6 +127,12 @@ section a
     text-decoration: underline;
 }
 
+section img
+{
+    width: 75%;
+}
+
+
 /* Footer */
 
 footer
