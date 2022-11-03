@@ -1,25 +1,46 @@
 /* Global */
-
-h6 
+:root 
 {
-    color: red;
-    text-transform: uppercase;
-    font-size: x-small;
-}
+    --danger: #df4759;
+}  
 
-/* Nav */
 nav
 {
     padding: 0% 15%;
 }
 
-/* Main */
-main, footer
+main
 {
-    padding: 24px 0px;
+    margin: 2em 0em;
 }
 
+footer
+{
+    padding: 1.5em 8em;
+}
+
+p
+{
+    color: black;
+}
+
+h6 
+{
+    color: var(--danger);
+    text-transform: uppercase;
+    font-size: x-small;
+}
+
+hr, br
+{
+    size: 2em;
+    margin: 2.5em 0em;
+}
+
+
+
 /* NavBar */
+
 .brand-name
 {
     font-size: x-large;
@@ -33,11 +54,6 @@ main, footer
 
 
 /*  Article/Jumbotron */
-hr
-{
-    size: 1em;
-    margin: 2.5em 0em;
-}
 
 .jumbotron .image
 {
@@ -59,31 +75,31 @@ footer
     background-color: black;
 }
 
-footer h6, footer a
+footer h6, footer a, footer li
 {
     color: white;
     font-size: small;
+}
+
+footer li
+{
     padding-bottom: 5%;
+}
+
+footer img, footer a:hover
+{
+    color: var(--danger);
 }
 
 .smIcon
 {
+    font-size: 1em;
     color: white;
-    padding: 1.5em;
-}
-
-.smIcon:hover 
-{
-    color: #df4759;
+    padding: 0em 1.5em 1.5em 1.5em;
 }
 
 .TyC 
 {
     color:white;
     font-size: x-small;
-}
-
-.TyC:hover 
-{
-    color: #df4759;
 }
