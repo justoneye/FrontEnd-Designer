@@ -22,18 +22,17 @@ La carpeta contiene los siguientes archivos:
 
 ```
 FrontEnd-Designer/
-  project/
-  ├── css/
-  |   └── styles.css
-  ├── img/
-  |   └── images, logo, favicon...
-  ├── screenshots/
-  |   └── images...
-  ├── js/
-  |   └── script.js
-  ├── READMeFiles/
-  └── index.html
-  └── README.md
+├── css/
+|   └── styles.css
+├── img/
+|   └── images, logo, favicon...
+├── screenshots/
+|   └── images...
+├── js/
+|   └── script.js
+├── READMeFiles/
+└── index.html
+└── README.md
   
 ```
 
