@@ -25,9 +25,6 @@ FrontEnd-Designer/
 |   └── images, logo, favicon...
 ├── screenshots/
 |   └── images...
-├── js/
-|   └── script.js
-├── READMeFiles/
 └── index.html
 └── README.md
   
