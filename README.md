@@ -13,6 +13,7 @@ _Completed by por: Pilar Camargo Márquez_
 - CSS 3
 - Bootstrap 4.6.2
 - Jquery 3.5.1
+<br />
 
 
 ## File Structure
@@ -29,6 +30,7 @@ FrontEnd-Designer/
 └── README.md
   
 ```
+<br />
 
 
 ## Tasks and Screens
@@ -38,6 +40,7 @@ FrontEnd-Designer/
 - Slide 3: Search box.
 - Slide 4: Menu.
 - Slide 5: Footer.
+<br />
 
 
 ## Technical Requirements
@@ -45,6 +48,7 @@ FrontEnd-Designer/
 * Use pure CSS (with media-queries) to style the article.
 * Use Bootstrap 4 classes for grid system, dropdowns etc. (Include Bootstrap in the package just in case)
 * Use jQuery (please include it if using) for interactive elements.
+<br />
 
 
 ## Deliverables
@@ -52,6 +56,7 @@ FrontEnd-Designer/
 * .zip file containing HTML, CSS, JavaScript and images used in the article
 * ReadMe document with a brief description of the approach taken
 * Screenshots of how it appears in your device/s
+<br />
 
 
 ## Multimedia Content
@@ -60,7 +65,12 @@ To finish this test the content of the page (images, icons, logos, etc.) were ta
 
 - [Font Awesome Icons](https://fontawesome.com/icons)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Images)
+<br />
 
+
+## GitHub Repository (Private)
+
+<br />
 
 ## GitHub Repository (Private)
 
