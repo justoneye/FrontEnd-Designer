@@ -1,4 +1,5 @@
 /* Global */
+
 :root 
 {
     --danger: #df4759;
@@ -16,7 +17,7 @@ main
 
 footer
 {
-    padding: 1.5em 8em;
+    padding: 1.5em 12em 1em 12em ;
 }
 
 p
@@ -31,10 +32,10 @@ h6
     font-size: x-small;
 }
 
-hr, br
+hr
 {
-    size: 2em;
-    margin: 2.5em 0em;
+    width: 100%;
+    margin: 3em 0em;
 }
 
 
@@ -69,7 +70,11 @@ hr, br
 }
 
 
+/* Section */
+
+
 /* Footer */
+
 footer
 {
     background-color: black;
@@ -91,15 +96,25 @@ footer img, footer a:hover
     color: var(--danger);
 }
 
+footer hr 
+{
+    color: white;
+}
+
 .smIcon
 {
     font-size: 1em;
     color: white;
-    padding: 0em 1.5em 1.5em 1.5em;
+    padding: 0em 0em 1.5em 1.5em;
 }
 
-.TyC 
+.tyc, .tyc p 
 {
     color:white;
     font-size: x-small;
+}
+
+.tyc a 
+{
+    padding: 0em 1em;
 }
