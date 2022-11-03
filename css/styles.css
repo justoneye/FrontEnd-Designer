@@ -3,7 +3,31 @@
 :root 
 {
     --danger: #df4759;
-}  
+} 
+
+
+
+/* Media Queries */
+
+@media (min-width: 576px) 
+{
+
+}
+
+@media (min-width: 768px) 
+{ 
+
+ }
+
+@media (min-width: 992px) 
+{
+
+}
+
+@media (min-width: 1200px) 
+{
+
+}
 
 nav
 {
@@ -13,11 +37,6 @@ nav
 main
 {
     margin: 2em 0em;
-}
-
-footer
-{
-    padding: 1.5em 12em 1em 12em ;
 }
 
 p
