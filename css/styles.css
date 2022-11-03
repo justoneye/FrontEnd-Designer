@@ -1,3 +1,12 @@
+/* Global */
+
+h6 
+{
+    color: red;
+    text-transform: uppercase;
+    font-size: x-small;
+}
+
 /* Nav */
 nav
 {
@@ -9,14 +18,6 @@ main, footer
 {
     padding: 24px 0px;
 }
-
-h6 
-{
-    color: red;
-    text-transform: uppercase;
-    font-size: smaller;
-}
-
 
 /* NavBar */
 .brand-name
@@ -32,9 +33,10 @@ h6
 
 
 /*  Article/Jumbotron */
-.article-hr
+hr
 {
-    margin: 36px 0px;
+    size: 1em;
+    margin: 2.5em 0em;
 }
 
 .jumbotron .image
@@ -57,39 +59,22 @@ footer
     background-color: black;
 }
 
-footer hr
+footer h6, footer a
 {
     color: white;
-    size: 1em;
-}
-
-footer h6 
-{
-    color: white;
-    text-transform: uppercase;
-    font-size: small;
-}
-
-footer ul li
-{
     font-size: small;
     padding-bottom: 5%;
-}
-
-footer a 
-{
-    color: white;
 }
 
 .smIcon
 {
     color: white;
-    padding: 8px;
+    padding: 1.5em;
 }
 
 .smIcon:hover 
 {
-    color: red;
+    color: #df4759;
 }
 
 .TyC 
@@ -100,5 +85,5 @@ footer a
 
 .TyC:hover 
 {
-    color: red;
+    color: #df4759;
 }
