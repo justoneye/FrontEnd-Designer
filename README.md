@@ -5,7 +5,7 @@ _Goal: Replicate everything in the screenshots for article style._
 _Completed by por: Pilar Camargo Márquez_
 <br />
 [Website](https://about.me/justoneye) | [GitHub](https://github.com/justoneye) | [LinkedIn](https://www.linkedin.com/in/pilarcamargo)
-
+<br /><br />
 
 ## Tech Stack
 
