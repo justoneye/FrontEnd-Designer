@@ -31,6 +31,11 @@
 
 @media (min-width: 1200px) 
 {
+    nav
+    {
+        margin: 0% 5%;
+    }
+    
     footer
     {
         padding: 1.5em 12em 1em 12em;
@@ -44,11 +49,6 @@
 {
     --danger: #df4759;
 } 
-
-nav
-{
-    margin: 0% 5%;
-}
 
 main
 {
