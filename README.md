@@ -53,9 +53,9 @@ FrontEnd-Designer/
 
 ## Deliverables
 
-* .zip file containing HTML, CSS, JavaScript and images used in the article
-* ReadMe document with a brief description of the approach taken
-* Screenshots of how it appears in your device/s
+- [x] .zip file containing HTML, CSS, JavaScript and images used in the article
+- [x] ReadMe document with a brief description of the approach taken
+- [x] Screenshots of how it appears in your device/s
 <br />
 
 
@@ -68,7 +68,7 @@ To finish this test the content of the page (images, icons, logos, etc.) were ta
 <br />
 
 
-## GitHub Repository (Private)
+## Solution Coding Process
 
 <br />
 
