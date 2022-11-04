@@ -68,7 +68,7 @@ The next thing was to read and understand the challenge to analyze each of the c
 Then, I searched the Bootstrap documentation for the components I identified in the slides to copy the sample base code into the .HTML file that best fit the slides in the document. When I finished adding the base components, I started adding the elements of the slides in their corresponding component. At this point I started modifying and adjusting the styles of each component in the .CSS file to replicate them as closely as possible to the example slides.
 <br /><br />
 Finally I ended up adapting some components (for example NavBar) to the different types of screen and documenting the process in the ReadMe file to verify the compliance of the deliverables.
-<br />
+<br /><br />
 
 
 ## Multimedia Content
