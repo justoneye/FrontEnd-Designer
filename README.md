@@ -35,11 +35,11 @@ FrontEnd-Designer/
 
 ## Tasks and Screens
 
-- Slide 1: Header and beginning of the article.
-- Slide 2: Social media share box.
-- Slide 3: Search box.
-- Slide 4: Menu.
-- Slide 5: Footer.
+1. Header and beginning of the article.
+2. Social media share box.
+3. Search box.
+4. Menu.
+5. Footer.
 <br />
 
 
@@ -59,6 +59,11 @@ FrontEnd-Designer/
 <br />
 
 
+## Solution Coding Process
+
+<br />
+
+
 ## Multimedia Content
 
 To finish this test the content of the page (images, icons, logos, etc.) were taken from the following free resources:
@@ -67,10 +72,6 @@ To finish this test the content of the page (images, icons, logos, etc.) were ta
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Images)
 <br />
 
-
-## Solution Coding Process
-
-<br />
 
 ## GitHub Repository (Private)
 
